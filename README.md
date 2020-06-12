@@ -9,3 +9,7 @@ Yes........the price!
 
 
 In this i build end to end project........lets have a look
+
+
+
+Dataset is downloaded from here: https://www.kaggle.com/amitabhajoy/bengaluru-house-price-data
